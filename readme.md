@@ -5,3 +5,4 @@
     - npx tailwindcss init
 - npx expo install expo-font @expo-google-fonts/inter
 - npm i clsx
+- npm install zustand

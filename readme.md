@@ -7,3 +7,4 @@
 - npm i clsx
 - npm install zustand
 - npm i react-native-keyboard-aware-scroll-view --save
+- npx expo install @react-native-async-storage/async-storage
